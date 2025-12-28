@@ -5,7 +5,7 @@
 🎓 **Former BSc in Computer Engineering** — *Politecnico di Torino*  
 🎓 **Current MSc in Artificial Intelligence** — *Universiteit van Amsterdam*
 
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
+Passionate about Artificial Intelligence & Machine Learning, with a strong interest in generative models and applied ML.
 
 ---
 
