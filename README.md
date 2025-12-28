@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Edo 👋
 
-<!--
-**edovergna/edovergna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Former BSc in Computer Engineering** — Politecnico di Torino  
+🎓 **Current MSc in Artificial Intelligence** — Universiteit van Amsterdam  
 
-Here are some ideas to get you started:
+💡 Passionate about **Artificial Intelligence & Machine Learning**, with a strong interest in generative models and applied ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Programming Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📊 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=edovergna&color=blue)
