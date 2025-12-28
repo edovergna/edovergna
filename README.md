@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hi 👋, 
-# I'm Edo
+# Hi, I'm Edo 👋
 
 🎓 **Former BSc in Computer Engineering** — *Politecnico di Torino*  
 🎓 **Current MSc in Artificial Intelligence** — *Universiteit van Amsterdam*
