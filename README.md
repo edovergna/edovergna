@@ -12,11 +12,21 @@
 ## 💻 Programming Languages & Tools
 
 <p align="center">
+  <!-- Dark mode -->
   <img
-    height="64"
     src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,linux,pytorch,js,react&perline=10"
+    height="64"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  <!-- Light mode -->
+  <img
+    src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,linux,pytorch,js,react&perline=10&theme=light"
+    height="64"
+    media="(prefers-color-scheme: light)"
   />
 </p>
+
 
 ---
 
