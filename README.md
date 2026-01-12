@@ -15,22 +15,23 @@
   <picture>
     <!-- Dark mode -->
     <source
-      srcset="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,linux,pytorch,js,react&perline=10"
       media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=python%2Cc%2Ccpp%2Cjava%2Cmysql%2Cgit%2Clinux%2Cpytorch%2Cjs%2Creact&perline=10"
     />
     <!-- Light mode -->
     <source
-      srcset="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,linux,pytorch,js,react&perline=10&theme=light"
       media="(prefers-color-scheme: light)"
+      srcset="https://skillicons.dev/icons?i=python%2Cc%2Ccpp%2Cjava%2Cmysql%2Cgit%2Clinux%2Cpytorch%2Cjs%2Creact&perline=10&theme=light"
     />
     <!-- Fallback -->
     <img
-      src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,linux,pytorch,js,react&perline=10"
       height="64"
       alt="Programming languages and tools"
+      src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,linux,pytorch,js,react&perline=10"
     />
   </picture>
 </p>
+
 
 
 
