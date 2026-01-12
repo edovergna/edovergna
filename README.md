@@ -12,20 +12,26 @@
 ## 💻 Programming Languages & Tools
 
 <p align="center">
-  <!-- Dark mode -->
-  <img
-    src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,linux,pytorch,js,react&perline=10"
-    height="64"
-    media="(prefers-color-scheme: dark)"
-  />
-
-  <!-- Light mode -->
-  <img
-    src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,linux,pytorch,js,react&perline=10&theme=light"
-    height="64"
-    media="(prefers-color-scheme: light)"
-  />
+  <picture>
+    <!-- Dark mode -->
+    <source
+      srcset="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,linux,pytorch,js,react&perline=10"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light mode -->
+    <source
+      srcset="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,linux,pytorch,js,react&perline=10&theme=light"
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- Fallback -->
+    <img
+      src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,linux,pytorch,js,react&perline=10"
+      height="64"
+      alt="Programming languages and tools"
+    />
+  </picture>
 </p>
+
 
 
 ---
